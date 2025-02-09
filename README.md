@@ -10,6 +10,7 @@
 - **Leetcode Problem Solving**
 - **Flask**
 - **SQL and MongoDB**
+- **Artificial intelligence**
 
 ## 📫 Connectivity
 - **Facebook**: [Amir Sakib](https://www.facebook.com/amir.sakib.92/)
