@@ -1,24 +1,24 @@
 👋 **Hi, I’m Amir Sakib (@amirsakib16)**
 
-🚀 **Passionate about Machine Learning, Data Science, and Computer Vision**
-🎯 **Constantly improving Data Structures & Algorithms, AI, and Full-Stack Development**
+🚀 **Passionate about Machine Learning, Data Science, and Computer Vision** <br>
+🎯 **Constantly improving Data Structures & Algorithms, AI, and Full-Stack Development** <br>
 
 🔥 _**About Me**_
 
-🔹 Aspiring **Data Scientist** & **AI Engineer**
-🔹 Full-Stack Developer (**React.js & Flask**)
-🔹 Problem Solver | Open Source Enthusiast
-🔹 Tech Blogger & Mentor
+🔹 Aspiring **Data Scientist** & **AI Engineer** <br>
+🔹 Full-Stack Developer (**React.js & Flask**) <br>
+🔹 Problem Solver | Open Source Enthusiast <br>
+🔹 Tech Blogger & Mentor <br>
 
 💡 _**I love building intelligent systems, solving real-world problems with AI, and optimizing algorithms for efficiency.**_
 
 📌 _**Currently Exploring**_
 
-✅ **Data Structures & Algorithms (DSA) | LeetCode Challenges**
-✅ **Data Science Workflow (Data Cleaning, Feature Engineering, Model Optimization)**
-✅ **Full-Stack Development (React.js + Flask)**
-✅ **Databases: SQL & MongoDB**
-✅ **Deep Learning & Artificial Intelligence**
+✅ **Data Structures & Algorithms (DSA) | LeetCode Challenges** <br>
+✅ **Data Science Workflow (Data Cleaning, Feature Engineering, Model Optimization)** <br>
+✅ **Full-Stack Development (React.js + Flask)** <br>
+✅ **Databases: SQL & MongoDB** <br>
+✅ **Deep Learning & Artificial Intelligence** <br>
 
 📊 _**GitHub Stats**_
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amirsakib16&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsakib16&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsakib16&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" /> </div> 
