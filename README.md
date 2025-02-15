@@ -21,7 +21,7 @@
 ✅ **Deep Learning & Artificial Intelligence** <br>
 
 📊 _**GitHub Stats**_
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amirsakib16&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsakib16&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsakib16&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Top Languages" /> </div> 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amirsakib16&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" alt=" " /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsakib16&theme=dracula&hide_border=false" height="180" alt=" " /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsakib16&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt=" " /> </div> 
 
 🛠️ _**Technologies & Tools**_
 **Languages & Frameworks**
