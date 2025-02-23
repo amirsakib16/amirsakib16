@@ -19,6 +19,9 @@
 ✅ **Full-Stack Development (React.js + Flask)** <br>
 ✅ **Databases: SQL & MongoDB** <br>
 ✅ **Deep Learning & Artificial Intelligence** <br>
+✅ **Power BI for data and information visualization** <br>
+✅ **Tableau for data visualization** <br>
+✅ **Excel**
 
 📊 _**GitHub Stats**_
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amirsakib16&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" alt=" " /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsakib16&theme=dracula&hide_border=false" height="180" alt=" " /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsakib16&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt=" " /> </div> 
