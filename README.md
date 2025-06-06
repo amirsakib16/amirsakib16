@@ -77,4 +77,20 @@
     amir.sakib.saad@g.bracu.ac.bd
 
 **Socials:**
-<div align="left"> <a href="https://www.facebook.com/amir.sakib.92/"> <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" alt="Facebook" /> </a> <a href="http://linkedin.com/in/amir-sakib-saad-2410282a7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /> </a> <a href="https://www.kaggle.com/amirsakibsaad"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="35" alt="Kaggle" /> </a> <a href="https://leetcode.com/u/amirsakib16/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="35" alt="LeetCode" /> </a> </div>
+<div align="left">
+  <a href="https://www.facebook.com/amir.sakib.92/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
+  <a href="http://linkedin.com/in/amir-sakib-saad-2410282a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/amirsakibsaad">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="35" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/u/amirsakib16/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="35" alt="LeetCode" />
+  </a>
+  <a href="https://hashnode.com/@amirsakib">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" height="35" alt="Hashnode" />
+  </a>
+</div>
