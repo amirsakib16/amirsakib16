@@ -1,6 +1,9 @@
 <div align="center">
+<h2 align="center" style="color:#1f6feb;">
+   AS-SALAMU ALAYKUM
+</h2>
 
-# 👋 Welcome to My Digital Space
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Amir+Sakib+%F0%9F%9A%80;Data+Scientist+%7C+AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Building+the+Future+with+AI+%E2%9C%A8" alt="Typing SVG" />
 
@@ -16,73 +19,215 @@
 
 ---
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div>
-
-```python
-#!/usr/bin/env python3
-
-class DataScientist:
-    def __init__(self):
-        self.name = "Amir Sakib"
-        self.role = "ML & Data Science Engineer"
-        self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.education = "BRAC University"
-        self.languages = ["Python", "JavaScript", "C++", "SQL"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-    
-    def get_current_focus(self):
-        return {
-            "🎯 Learning": [
-                "Advanced DSA & Algorithms",
-                "Deep Learning Architectures", 
-                "System Design Patterns",
-                "MLOps & Model Deployment"
-            ],
-            "🚀 Building": [
-                "AI-Powered Web Applications",
-                "Computer Vision Projects",
-                "Full-Stack ML Solutions"
-            ],
-            "💪 Practicing": [
-                "LeetCode Daily Challenges",
-                "Kaggle Competitions",
-                "Open Source Contributions"
-            ]
-        }
-
-me = DataScientist()
-me.say_hi()
-```
-
-</div>
-
-<br clear="right"/>
-
----
-
-## 🚀 Tech Arsenal
+##  About Me
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<table>
+<tr>
+<td align="center" width="50%">
+
+###  Profile
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF"/>
+
+**Amir Sakib**  
+ BRAC University  
+ Dhaka, Bangladesh 🇧🇩  
+ ML & Data Science Engineer
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Core Skills
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Skills GIF"/>
+
+**Python** • **JavaScript** • **C++** • **SQL**
+
+💡 *Building intelligent systems that make a difference*
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<details>
-<summary><b>🔥 Core Technologies</b></summary>
+---
+
+<div align="center">
+
+###  Currently Learning
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/><br>
+<sub><b>Advanced DSA</b></sub><br>
+<sub>& Algorithms</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/><br>
+<sub><b>Deep Learning</b></sub><br>
+<sub>Architectures</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/><br>
+<sub><b>System Design</b></sub><br>
+<sub>Patterns</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/><br>
+<sub><b>MLOps</b></sub><br>
+<sub>& Deployment</sub>
+</td>
+</tr>
+</table>
+
+###  Currently Building
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/><br>
+<sub><b>AI-Powered</b></sub><br>
+<sub>Web Applications</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/><br>
+<sub><b>Computer Vision</b></sub><br>
+<sub>Projects</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/><br>
+<sub><b>Full-Stack ML</b></sub><br>
+<sub>Solutions</sub>
+</td>
+</tr>
+</table>
+
+###  Currently Practicing
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" alt="LeetCode"/><br>
+<sub><b>LeetCode Daily</b></sub><br>
+<sub>Challenges</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/><br>
+<sub><b>Kaggle</b></sub><br>
+<sub>Competitions</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/><br>
+<sub><b>Open Source</b></sub><br>
+<sub>Contributions</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+** "Thanks for dropping by! Let's build something amazing together!"**
+
+</div>
+
+<div align="center">
+
+##  Technology Stack (Static Logos)
+
+###  AI / ML & LLM Frameworks
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/><br>
+<b>Python</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80"/><br>
+<b>TensorFlow</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80"/><br>
+<b>PyTorch</b>
+</td>
+<td align="center" width="20%">
+<img src="langchain-removebg-preview.png" width="80"/><br>
+<b>LangChain</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="80"/><br>
+<b>NumPy</b>
+</td>
+</tr>
+</table>
+
+---
+
+###  Data Science & Visualization
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80"/><br>
+<b>Pandas</b>
+</td>
+<td align="center" width="20%">
+<img src="https://matplotlib.org/stable/_static/logo_light.svg" width="80"/><br>
+<b>Matplotlib</b>
+</td>
+<td align="center" width="20%">
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="80"/><br>
+<b>Jupyter</b>
+</td>
+<td align="center" width="20%">
+<img src="SQL.png" width="80"/><br>
+<b>SQL</b>
+</td>
+<td align="center" width="20%">
+<img src="colab_favicon_256px.png" width="80"/><br>
+<b>Google Colab</b>
+</td>
+<td align="center" width="20%">
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="80"/><br>
+<b>Kaggle</b>
+</td>
+</tr>
+</table>
+
+---
+
+###  BI, Tools & Platforms
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="images-removebg-preview.png" width="80"/><br>
+<b>Power BI</b>
+</td>
+<td align="center" width="20%">
+<img src="Microsoft_Excel-Logo.wine.png" width="80"/><br>
+<b>Excel</b>
+</td>
+<td align="center" width="20%">
+<img src="Github-desktop-logo-symbol.svg.png" width="80"/><br>
+<b>GitHub</b>
+</td>
+<td align="center" width="20%">
+<img src="ca609bab1385855220fd15dff809b2f0-removebg-preview.png" width="80"/><br>
+<b>Assembly</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
 <br>
 
 | Category | Technologies |
@@ -95,37 +240,25 @@ me.say_hi()
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Visualization** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) |
 
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirsakib16&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsakib16&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirsakib16&custom_title=Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=00d9ff&area=true&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsakib16&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirsakib16&theme=react&utcOffset=6" />
-
 </div>
 
 ---
 
-## 🏆 Achievements & Trophies
+## GitHub Analytics
 
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=amirsakib16&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<p align="center">
+  <img width="48%"
+       src="https://streak-stats.demolab.com?user=amirsakib16&theme=react&hide_border=true" />
+  <img width="52%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirsakib16&theme=react" />
+</p>
 
-</div>
+
 
 ---
 
-## 🎯 Current Focus Areas
+
+## Current Focus Areas
 
 <div align="center">
 
@@ -143,9 +276,10 @@ Focus Areas:
   - Neural Network Design
   
 Current Projects:
-  - 🎯 Image Classification System
-  - 🤖 Chatbot with RAG
-  - 📊 Predictive Analytics Dashboard
+  -  Image Classification System
+  -  Chatbot with RAG
+  -  Predictive Analytics Dashboard
+  -  Large Language Models
 ```
 
 </td>
@@ -158,11 +292,13 @@ Technologies:
   - Backend: Flask, Node.js, FastAPI
   - Database: MongoDB, PostgreSQL
   - DevOps: Docker, CI/CD
+  - LangChain Projects
   
 Building:
-  - 🚀 AI-Powered Web Apps
-  - 📈 Real-time Analytics Tools
-  - 🎨 Interactive Dashboards
+  -  AI-Powered Web Apps
+  -  Real-time Analytics Tools
+  -  Interactive Dashboards
+  - End to end LLMs projects
 ```
 
 </td>
@@ -173,40 +309,38 @@ Building:
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🚀 Explore My Work
+###  Explore My Work
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=amirsakib16&repo=ResearchNexus&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/amirsakib16?tab=repositories)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=amirsakib16&repo=Caption-Generation-from-Image-using-Vision-Transformer&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff)](https://github.com/amirsakib16?tab=repositories)
 
 <a href="https://github.com/amirsakib16?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Projects-%2300d9ff.svg?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
 </a>
 
-### 📌 Recent Repositories
+###  Recent Repositories
 
 <!-- Replace these with your actual repository names once you have some repositories -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/amirsakib16">
+      <a href="https://github.com/amirsakib16/Caption-Generation-from-Image-using-Vision-Transformer">
         <img src="https://img.shields.io/badge/🤖-AI%20Project-00d9ff?style=for-the-badge"/>
-        <br><b>Machine Learning Projects</b>
+        <br>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/amirsakib16">
+      <a href="https://github.com/amirsakib16/ResearchNexus">
         <img src="https://img.shields.io/badge/💻-Web%20Dev-00d9ff?style=for-the-badge"/>
-        <br><b>Full-Stack Applications</b>
+        <br>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/amirsakib16">
+      <a href="[https://github.com/amirsakib16](https://github.com/amirsakib16/ObesityAnalysis_ML_MySQL_PowerBI-Dashboard_FlaskAPI)">
         <img src="https://img.shields.io/badge/📊-Data%20Science-00d9ff?style=for-the-badge"/>
-        <br><b>Analytics & Visualization</b>
+        <br>
       </a>
     </td>
   </tr>
@@ -216,13 +350,13 @@ Building:
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirsakib16&theme=react" />
 
-### 🐍 Watch My Contributions
+###  Watch My Contributions
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -233,17 +367,7 @@ Building:
 
 ---
 
-## 📚 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- Add this note for yourself -->
-<!-- To enable activity updates, you need to set up GitHub Actions. See: https://github.com/jamesgeorge007/github-activity-readme -->
-
----
-
-## 🌐 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -254,7 +378,7 @@ Building:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirsakib16@gmail.com)
 
-### 📧 Get in Touch
+###  Get in Touch
 **Personal:** amirsakib16@gmail.com  
 **Academic:** amir.sakib.saad@g.bracu.ac.bd
 
@@ -262,11 +386,15 @@ Building:
 
 ---
 
-## 💭 Random Dev Quote
+<div align="center">
+
+<img src="Gemini_Generated_Image_ghimmhghimmhghim-removebg-preview.png" width="100">
+
+</div>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="Screenshot_2025-12-31_225148-removebg-preview.png" width="200">
 
 </div>
 
@@ -276,7 +404,7 @@ Building:
   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 💖 Thanks for visiting! Let's innovate together! ✨
+###  Thanks for visiting! Let's innovate together! 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
@@ -284,25 +412,4 @@ Building:
 
 ---
 
-<!-- Instructions for Setup -->
-<!-- 
-## 🔧 Setup Instructions:
 
-1. **Snake Animation Setup** (Optional):
-   - Create a repository named exactly as your username: amirsakib16
-   - Add .github/workflows/snake.yml with the snake generation action
-   - The snake will automatically generate from your contributions
-   
-2. **Featured Projects**:
-   - Replace 'repository-name-1' and 'repository-name-2' with your actual repo names
-   - These cards will show once you have repositories
-   
-3. **Activity Feed** (Optional):
-   - Set up github-activity-readme action to show your recent GitHub activity
-   
-4. **Social Links**:
-   - Update all social media profile links
-   - Remove any platforms you don't use
-
-5. **Remove this comment section** before publishing!
--->
