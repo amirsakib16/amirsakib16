@@ -1,6 +1,7 @@
 <div align="center">
 <h2 align="center" style="color:#1f6feb;">
-   AS-SALAMU ALAYKUM
+   <img width="600" height="162" alt="image" src="Screenshot_2025-12-31_234922-removebg-preview.png" />
+
 </h2>
 
 
