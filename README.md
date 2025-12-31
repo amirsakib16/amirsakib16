@@ -337,7 +337,7 @@ Building:
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="[https://github.com/amirsakib16](https://github.com/amirsakib16/ObesityAnalysis_ML_MySQL_PowerBI-Dashboard_FlaskAPI)">
+      <a href="https://github.com/amirsakib16/ObesityAnalysis_ML_MySQL_PowerBI-Dashboard_FlaskAPI">
         <img src="https://img.shields.io/badge/📊-Data%20Science-00d9ff?style=for-the-badge"/>
         <br>
       </a>
