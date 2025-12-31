@@ -351,7 +351,7 @@ Building:
 
 ##  Contribution Activity
 
-<div align="center">
+<div align="center" width="90%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirsakib16&theme=react" />
 
