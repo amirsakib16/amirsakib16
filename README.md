@@ -39,13 +39,13 @@
 </td>
 <td align="center" width="50%">
 
-### 🛠️ Core Skills
+###  Core Skills
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" alt="Skills GIF"/>
 
 **Python** • **JavaScript** • **C++** • **SQL**
 
-💡 *Building intelligent systems that make a difference*
+ *Building intelligent systems that make a difference*
 
 </td>
 </tr>
@@ -266,7 +266,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Machine Learning & AI
+###  Machine Learning & AI
 ```yaml
 Focus Areas:
   - Deep Learning Architectures
@@ -285,7 +285,7 @@ Current Projects:
 </td>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Development
+###  Full-Stack Development
 ```yaml
 Technologies:
   - Frontend: React.js, TailwindCSS
