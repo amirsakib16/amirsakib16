@@ -246,9 +246,9 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="48%"
+  <img width="67%"
        src="https://streak-stats.demolab.com?user=amirsakib16&theme=react&hide_border=true" />
-  <img width="52%"
+  <img width="67%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirsakib16&theme=react" />
 </p>
 
